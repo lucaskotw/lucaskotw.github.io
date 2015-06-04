@@ -3,3 +3,5 @@ markdown: kramdown
 pygments: true
 timezone: Asia/Taipei
 permalink: /blog/:year/:month/:day/:title
+gems:
+  - jekyll-sitemap
