@@ -1,6 +1,6 @@
 name: Yu Jung's Website
 markdown: kramdown
-highlighter: true
+highlighter: pygments
 timezone: Asia/Taipei
 permalink: /blog/:year/:month/:day/:title
 gems:
