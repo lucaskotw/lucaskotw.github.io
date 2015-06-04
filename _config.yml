@@ -1,4 +1,5 @@
-name: Lucas's Website
-markdown: redcarpet
+name: Yu Jung's Website
+markdown: kramdown
 pygments: true
 timezone: Asia/Taipei
+permalink: /blog/:year/:month/:day/:title
