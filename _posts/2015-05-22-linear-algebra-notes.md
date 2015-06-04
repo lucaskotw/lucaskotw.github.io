@@ -3,6 +3,7 @@ layout: post
 title:  "Linear Algebra Notes"
 date:   2014-05-22 16:00:00
 categories: linear algebra
+comments: true
 ---
 
 # Basic Concepts

@@ -9,6 +9,8 @@ layout: default
 </div>
 
 <!-- Post comments -->
+{% if page.comments %}
 <div class="comments">
     {% include disqus.html %}    
 </div>
+{% endif %}

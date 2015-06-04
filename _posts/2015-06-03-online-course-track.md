@@ -3,6 +3,7 @@ layout: default
 title:  "Learning Record"
 date:   2014-06-04 20:00:00
 categories: record
+comments: false
 ---
 
 # Categories #
